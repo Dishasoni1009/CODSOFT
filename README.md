@@ -27,3 +27,16 @@ STUDENT GRADE CALCULATOR (Task 2) 👦🏻📚🔄✨ <br><hr>
 ![task2 output](https://github.com/Dishasoni1009/CODSOFT/assets/168987610/f2168741-0fde-479e-8690-f8d9e735968e)<br>
 
 ![output task2](https://github.com/Dishasoni1009/CODSOFT/assets/168987610/d20fd6e8-af47-4eec-833c-b0f52eff6bdc)<br><hr>
+* ATM INTERFACE (Task 3) 🏧💳🏦✨<br><hr>
+* Create a class to represent the ATM machine.<br>
+* Design the user interface for the ATM, including options such as withdrawing, depositing, and checking the balance.<br>
+* Implement methods for each option, such as withdraw(amount), deposit(amount), and check Balance().<br>
+* Create a class to represent the user's bank account, which stores the account balance.<br>
+* Connect the ATM class with the user's bank account class to access and modify the account balance.<br>
+*Validate user input to ensure it is within acceptable limits (e.g., sufficient balance for withdrawals).<br>
+* Display appropriate messages to the user based on their chosen options and the success or failure of their transactions.<br>
+
+![task3 output](https://github.com/Dishasoni1009/CODSOFT/assets/168987610/ed9c3c2f-7e8c-42a2-a717-a48a1941c8a2)<br>
+
+
+![tsk 3 output](https://github.com/Dishasoni1009/CODSOFT/assets/168987610/f496d280-e5fd-4b2a-a913-9c6741229534)<br><hr>
