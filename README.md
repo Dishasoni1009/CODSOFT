@@ -40,3 +40,4 @@ STUDENT GRADE CALCULATOR (Task 2) 👦🏻📚🔄✨ <br><hr>
 
 
 ![tsk 3 output](https://github.com/Dishasoni1009/CODSOFT/assets/168987610/f496d280-e5fd-4b2a-a913-9c6741229534)<br><hr>
+* <B><U>QUIZ APPLICATION WITH TIMER  (Task 4)</U></B> 🏧💳🏦✨⏲
