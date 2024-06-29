@@ -1,5 +1,5 @@
 Java Developer Internship at Codsoft 👨‍💻
-NUMBER GAME (Task 1) 🎮✨<hr>
+<B>NUMBER GAME (Task 1)</B>🎮✨<hr>
 
 1.Generate a random number within a specified range, such as 1 to 100.<br>
 2.Prompt the user to enter their guess for the generated number.<br>
@@ -15,7 +15,7 @@ NUMBER GAME (Task 1) 🎮✨<hr>
 
 ![Task1_output](https://github.com/Dishasoni1009/CODSOFT/assets/168987610/ba660c88-0ae1-4481-a6fd-c4c249ae8b7a)<br>
 <hr>
-STUDENT GRADE CALCULATOR (Task 2) 👦🏻📚🔄✨ <br><hr>
+<B>STUDENT GRADE CALCULATOR (Task 2)</B> 👦🏻📚🔄✨ <br><hr>
 * Input: Take marks obtained (out of 100) in each subject.<br>
 * Calculate Total Marks: Sum up the marks obtained in all subjects.<br>
 * Calculate Average Percentage: Divide the total marks by the total number of subjects to get the average percentage.<br>
@@ -27,7 +27,7 @@ STUDENT GRADE CALCULATOR (Task 2) 👦🏻📚🔄✨ <br><hr>
 ![task2 output](https://github.com/Dishasoni1009/CODSOFT/assets/168987610/f2168741-0fde-479e-8690-f8d9e735968e)<br>
 
 ![output task2](https://github.com/Dishasoni1009/CODSOFT/assets/168987610/d20fd6e8-af47-4eec-833c-b0f52eff6bdc)<br><hr>
-* ATM INTERFACE (Task 3) 🏧💳🏦✨<br><hr>
+<B> ATM INTERFACE (Task 3) </B>🏧💳🏦✨<br><hr>
 * Create a class to represent the ATM machine.<br>
 * Design the user interface for the ATM, including options such as withdrawing, depositing, and checking the balance.<br>
 * Implement methods for each option, such as withdraw(amount), deposit(amount), and check Balance().<br>
@@ -40,4 +40,13 @@ STUDENT GRADE CALCULATOR (Task 2) 👦🏻📚🔄✨ <br><hr>
 
 
 ![tsk 3 output](https://github.com/Dishasoni1009/CODSOFT/assets/168987610/f496d280-e5fd-4b2a-a913-9c6741229534)<br><hr>
-* <B><U>QUIZ APPLICATION WITH TIMER  (Task 4)</U></B> 🏧💳🏦✨⏲
+<B><U>QUIZ APPLICATION WITH TIMER  (Task 4)</U></B> 🏧💳🏦✨⏲<br><hr>
+1. Quiz Question and Options:-Store Quiz questions along wirh multiplle choice options ad correct answers.<br>
+2. Timer :- Implement a timer for each question to limit the time to answer.<br>
+3. Questio display:-Present one question at a timer with multiple-choice options.<br>
+4. Answer Submission:- Allow users to select an option and subit their answer within the given time.<br>
+5. Score Calculation:- keep traack of user's score based on correct answers.<br>
+6. Result screen :- Display the final score and summary of correct/incorrect answers.<br>
+![task4](https://github.com/Dishasoni1009/CODSOFT/assets/168987610/4e747411-fdee-4e86-9815-0c8e29b5d110)<br>
+
+![task 4 output](https://github.com/Dishasoni1009/CODSOFT/assets/168987610/803f8140-08bd-485e-ad3c-67e970db9be6)<br><hr>
