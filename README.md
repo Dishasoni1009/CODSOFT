@@ -40,10 +40,10 @@ Java Developer Internship at Codsoft 👨‍💻
 
 
 ![tsk 3 output](https://github.com/Dishasoni1009/CODSOFT/assets/168987610/f496d280-e5fd-4b2a-a913-9c6741229534)<br><hr>
-<B><U>QUIZ APPLICATION WITH TIMER  (Task 4)</U></B> 🏧💳🏦✨⏲<br><hr>
+<B><U>QUIZ APPLICATION WITH TIMER  (Task 4)</U></B> 🏧💳🏦✨⏲<br>
 1. Quiz Question and Options:-Store Quiz questions along wirh multiplle choice options ad correct answers.<br>
 2. Timer :- Implement a timer for each question to limit the time to answer.<br>
-3. Questio display:-Present one question at a timer with multiple-choice options.<br>
+3. Question display:-Present one question at a timer with multiple-choice options.<br>
 4. Answer Submission:- Allow users to select an option and subit their answer within the given time.<br>
 5. Score Calculation:- keep traack of user's score based on correct answers.<br>
 6. Result screen :- Display the final score and summary of correct/incorrect answers.<br>
